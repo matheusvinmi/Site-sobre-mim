@@ -1,0 +1,23 @@
+body{
+    color: white;
+    background-color: black;
+    text-align: left;
+    font-style: oblique;
+}
+img{
+    width: 900px;
+    height: 500px;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 5px;
+
+}
+   
+a{ 
+    color: green;
+    text-decoration: none;
+}

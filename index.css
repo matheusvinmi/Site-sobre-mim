@@ -1,0 +1,29 @@
+body{
+    color: white;
+    background-color: black;
+    font-style: italic;
+}
+    ul{
+        display: flex;
+        justify-content: space-between;
+        list-style-type: none;
+        align-items: center;
+        padding: 15px;
+    }
+    a{
+        color: green;
+        text-decoration: none;
+    }
+    img{
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        border: 7px solid blue;
+        }
+
+        .left{
+            text-align: left;
+        }
+        h1{
+            color: blue;
+        }
